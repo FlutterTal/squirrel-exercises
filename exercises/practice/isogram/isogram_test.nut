@@ -1,6 +1,6 @@
 dofile("isogram.nut")
 
-Isogram <- class extends Test {
+IsogramTest <- class extends Test {
     function test_empty_string() {
         assert_equal(true, Isogram.is_isogram(""))
     }
