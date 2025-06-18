@@ -90,7 +90,27 @@
         "practices": [],
         "prerequisites": [],
         "difficulty": 1
+      },
+      {
+        "slug": "nucleotide-count",
+        "name": "Nucleotide Count",
+        "uuid": "5ae03eae-436d-499c-ae06-a7794ea23132",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 1
       }
     ]
-  }
+  },
+  "tags": [
+    "paradigm/functional",
+    "paradigm/imperative",
+    "paradigm/object_oriented",
+    "platform/linux",
+    "platform/mac",
+    "platform/windows",
+    "typing/dynamic",
+    "used_for/embedded_systems",
+    "used_for/games",
+    "used_for/scripts"
+  ]
 }
